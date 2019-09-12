@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Sep 12 15:48:36 IST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820): instance a816c00e-016d-24fb-5be0-00000de9c780 
+on database directory memory:/home/qapitol/Desktop/SpringBootApp/testdb with class loader sun.misc.Launcher$AppClassLoader@3d4eac69 
+Loaded from file:/home/qapitol/.m2/repository/org/apache/derby/derby/10.14.1.0/derby-10.14.1.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_222-8u222-b10-1ubuntu1~16.04.1-b10
+user.dir=/home/qapitol/Desktop/SpringBootApp
+os.name=Linux
+os.arch=amd64
+os.version=4.15.0-55-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

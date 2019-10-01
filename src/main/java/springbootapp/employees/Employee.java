@@ -1,4 +1,4 @@
-package springBootApp.employees;
+package springbootapp.employees;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

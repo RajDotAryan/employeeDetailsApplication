@@ -1,4 +1,4 @@
-package springBootApp.employees;
+package springbootapp.employees;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package springBootApp;
+package springbootapp;
 
 import java.util.Collections;
 
@@ -11,7 +11,5 @@ public class EmployeeDetailsApp {
 		SpringApplication app = new SpringApplication(EmployeeDetailsApp.class);
 		app.setDefaultProperties(Collections.singletonMap("server.port", "9090"));
 		app.run(args);
-		
 	}
-
 }

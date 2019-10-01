@@ -1,4 +1,4 @@
-package springBootApp.employees;
+package springbootapp.employees;
 
 import java.util.List;
 import java.util.Optional;

@@ -1,4 +1,4 @@
-package springBootApp.employees;
+package springbootapp.employees;
 
 import org.springframework.data.repository.CrudRepository;
 
